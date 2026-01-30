@@ -11,8 +11,8 @@ redirect_from:
 
 Mentors
 ======
-Dr. Pu Tian
-Assistant Professor of Computer Science
+Dr. Pu Tian <br/>
+Assistant Professor of Computer Science <br/>
 Stockton University
 
 Students
