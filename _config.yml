@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "AI for Education"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "AI for Education"
 description              : &description "personal description"
 url                      : https://dscan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/AI4Edu"
