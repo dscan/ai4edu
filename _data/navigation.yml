@@ -9,13 +9,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Team"
+  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Team"
     url: /cv/
     
   - title: "Guide"
