@@ -1,7 +1,7 @@
 ---
 title: "Mentors"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-excerpt: "Dr. Pu Tian" <br> Assistant Professor of Computer Science <br> Stockton University"
+excerpt: "Dr. Pu Tian <br> Assistant Professor of Computer Science <br> Stockton University"
 collection: portfolio
 ---
 
