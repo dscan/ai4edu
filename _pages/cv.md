@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Mentors
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+Dr. Pu Tian
+Assistant Professor of Computer Science
+Stockton University
 
-Work experience
+Students
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2025
+  * Madison Bochard
+  * Tim Conser
+  * Alyssa Duran
+  * Lazaro Martull
 
 * Fall 2015: Research Assistant
   * Github University
