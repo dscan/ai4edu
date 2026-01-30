@@ -81,9 +81,9 @@ author:
   name             : "LeafTutor"
   avatar           : "profile.png"
   bio              : "AI-Powered Coding Assistant"
-  location         : "2700 Bay Area Blvd\n Houston, TX 77058"
+  location         : "2700 Bay Area Blvd<br/>Houston, TX 77058"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "TBA"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -175,7 +175,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Team:
     output: true
     permalink: /:collection/:path/
   talks:
