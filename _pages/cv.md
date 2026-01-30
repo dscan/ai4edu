@@ -13,7 +13,11 @@ Mentors
 ======
 Dr. Pu Tian <br/>
 Assistant Professor of Computer Science <br/>
-Stockton University
+Stockton University <br/>
+<br/>
+Dr. Yalong Wu
+Assistant Professor of Data Science
+University of Houston-Clear Lake
 
 Students
 ======
