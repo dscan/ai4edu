@@ -15,8 +15,8 @@ Dr. Pu Tian <br/>
 Assistant Professor of Computer Science <br/>
 Stockton University <br/>
 <br/>
-Dr. Yalong Wu
-Assistant Professor of Data Science
+Dr. Yalong Wu <br/>
+Assistant Professor of Data Science <br/>
 University of Houston-Clear Lake
 
 Students
