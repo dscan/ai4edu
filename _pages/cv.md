@@ -14,6 +14,9 @@ Mentors
 Dr. Pu Tian <br/>
 Assistant Professor of Computer Science <br/>
 Stockton University <br/>
+<ul>{% for post in site.teaching %}
+    {% include https://www.stockton.edu/business/computer-science.html %}
+  {% endfor %}</ul>
 <br/>
 Dr. Yalong Wu <br/>
 Assistant Professor of Data Science <br/>
