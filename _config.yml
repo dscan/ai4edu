@@ -81,7 +81,7 @@ author:
   name             : "LeafTutor"
   avatar           : "profile.png"
   bio              : "AI-Powered Coding Assistant"
-  location         : <p style="text-align: right;">"2700 Bay Area Blvd<br/> Houston, TX 77058"</p>
+  location         : "2700 Bay Area Blvd<br/> Houston, TX 77058"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
